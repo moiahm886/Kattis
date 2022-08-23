@@ -4,7 +4,7 @@
 #include<string>
 #include<sstream>
 using namespace std;
-constexpr auto x = INT_MAX;
+constexpr auto x = 2e6;
 bool prime(long long number)
 {
 	if (number == 2)return true;
