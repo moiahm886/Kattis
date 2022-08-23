@@ -2,6 +2,7 @@
 #include<utility>
 #include<vector>
 #include<climits>
+#include<cstring>
 using namespace std;
 int main()
 {
